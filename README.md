@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jabbo Ramirez
 
 - 👀 I’m interested in ...
-Sports, games and working in teams
+Sports, games and coding
 
 - 🌱 I’m currently learning ...
 Python and other languages
