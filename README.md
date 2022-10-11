@@ -4,7 +4,7 @@
 Sports, games and coding
 
 - 🌱 I’m currently learning ...
-Python and other languages
+AWS and some frameworks
 
 - 💞️ I’m looking to collaborate on ...
 many different projects to increase my knowledge in coding
